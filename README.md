@@ -4,12 +4,16 @@ Climb to the Star là một tựa game 2D platformer, trong đó người chơi 
 3. Cốt Truyện
 Trong một thế giới nơi các vì sao không chỉ là ánh sáng trên bầu trời mà còn là nguồn sức mạnh vô tận, tồn tại một truyền thuyết về Ngôi Sao Vương Quyền - một viên tinh tú có thể ban cho người sở hữu nó quyền lực tối thượng.
 Nhân vật chính của chúng ta từng là Hiệp sĩ Tinh Tú, một chiến binh mạnh mẽ được giao trọng trách bảo vệ viên sao này. Nhưng vì một âm mưu phản bội, anh đã bị đánh bại và ném xuống vực thẳm sâu nhất của thế giới. Không còn danh hiệu, không còn vũ khí, chỉ còn lòng quyết tâm, anh bắt đầu cuộc hành trình chinh phục bầu trời, từng bước nhảy lên những tầng mây, vượt qua những tàn tích cổ xưa. Mục tiêu của anh không chỉ là lấy lại danh dự, mà còn là trở về nơi anh từng sinh ra.
+
 Liệu anh có đủ sức mạnh để leo lên tận cùng bầu trời và giành lại những gì thuộc về mình?
 
-4. Gameplay
+5. Gameplay
+
 Cơ chế nhảy: Nhân vật có thể nhấn giữ phím nhảy để tích lực nhảy cao hơn.
+
 Hệ thống tính điểm:
 Mỗi lần nhảy thành công: +1 điểm.
+
 Chướng ngài:
 Mây mờ dần rồi biến mất.
 Góc gió hất nhân vật.
@@ -17,36 +21,62 @@ Vật thể chuyển động.
 Mây di chuyển ngang/vào ra.
 Mây bật nhảy cao.
 
+
 Kết thúc: Khi nhân vật chạm tới đỉnh mây, màn hình chiến thắng/cutscene xuất hiện.
+
 4. Môi Trường & Thiết Kế Cấp Độ
+
 Game gồm 4 tầng:
+
 Tàn Tích Địa Đàng - Cấp độ cơ bản, mọi thứ đều bình thường.
+
 Đỉnh Gió Gào - Gió cản trở, vật thể chuyển động, nhân vật sẽ bị gió đẩy.
+
 Vùng Đất Băng Giá - Mặt đất trơn trượt, nhân vật sẽ bị trượt liên tục.
+
 Cỗi Trời Hỗn Loạn - Mây di chuyển liên tục,nhân vật sẽ rớt nếu đứng trên đó quá lâu.
+
 5. Nhạc Nền & Âm Thanh
+
 Mỗi tầng đều có nhạc nền riêng biệt.
+
 Âm thanh nhảy, va chạm, gó hất, v.v.
+
 Hoạt ảnh nhân vật : Đứng im, di chuyển, vận sức, nhảy, rơi, đắp đất, té.
-6. Công Nghệ & Công Cụ
+
+7. Công Nghệ & Công Cụ
+
 Engine: Unity
+
 Ngôn ngữ: C#
+
 Phát triển: Visual Studio
+
 Âm thanh: NoCopyright, Youtube, Asset Store.
-7. Thách Thức & Hướng Phát Triển
+
+9. Thách Thức & Hướng Phát Triển
+    
 Khó khăn:
+
 Xây dựng cơ chế nhảy mượt mà.
+
 Cắn bằng độ khó.
+
 Thêm màn chơi cần ý tưởng mới
+
 Đồ họa, nhạc nền cần được đảm bảo chất lượng.
+
 Phát triển tương lai:
+
 Thêm chế độ speedrun.
+
 Tăng tính tương tác với môi trường.
+
 Hệ thống leaderboard.
+
 Mở rộng cốt truyện.
 
-
-8. UI & Cơ chế và các màn chơi
+11. UI & Cơ chế và các màn chơi
 
 1 : Giao diện Menu 
 
@@ -54,11 +84,17 @@ Mở rộng cốt truyện.
 
 
 Bao gồm nút Play, Score, Exit và Hướng dẫn
+
 Nhấn nút Play sẽ vào màn chơi
+
 Score sẽ giúp lưu trữ điểm số
+
 Nút Exit sẽ thoát trò chơi
+
 Nút Hướng dẫn sẽ hướng dẫn cho người chơi mới
+
 2 : Giao diện màn chơi
+
 Màn 1 : Tàn Tích Địa Đàng
 ![image](https://github.com/user-attachments/assets/7b369322-d9eb-49eb-b711-ae44a049450c)
 
