@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: ecad5f2711cfd5643a3c611f33ee389f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5761117607791993976
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_0"
+  - first:
+      213: 1744528957615710897
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_1"
+  - first:
+      213: -2465245580893417731
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_2"
+  - first:
+      213: -5646124867575303913
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_3"
+  - first:
+      213: 98185865105603048
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_4"
+  - first:
+      213: 1765069599107669111
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_5"
+  - first:
+      213: 5459558275710716066
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_6"
+  - first:
+      213: 2899677199024243059
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_7"
+  - first:
+      213: 3321118198608826405
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_8"
+  - first:
+      213: 7748217685268303627
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_9"
+  - first:
+      213: 7260308251229183889
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_10"
+  - first:
+      213: -4295698228899349531
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_11"
+  - first:
+      213: -5950495305614537106
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_12"
+  - first:
+      213: -5654060966608244345
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_13"
+  - first:
+      213: 1773732139539678015
+    second: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_14"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1369
+        width: 5000
+        height: 3631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b5f463f066c00b0800000000000000
+      internalID: -5761117607791993976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_1"
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1313
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2211318dfc53810800000000000000
+      internalID: 1744528957615710897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_2"
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1137
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe0fb2a430b9cdd0800000000000000
+      internalID: -2465245580893417731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_3"
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 1123
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711bcaee85fe4a1b0800000000000000
+      internalID: -5646124867575303913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_4"
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 1117
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9759b2683dc5100800000000000000
+      internalID: 98185865105603048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_5"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 989
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c57aad279ce7810800000000000000
+      internalID: 1765069599107669111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_6"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 865
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a80846635f34cb40800000000000000
+      internalID: 5459558275710716066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_7"
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 905
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c323ac09bd3820800000000000000
+      internalID: 2899677199024243059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_8"
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 789
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201a25d76bf61e20800000000000000
+      internalID: 3321118198608826405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_9"
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 667
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f01d4dee2378b60800000000000000
+      internalID: 7748217685268303627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_10"
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 275
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f5a5243ebc1c460800000000000000
+      internalID: 7260308251229183889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_11"
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 333
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebfd2c683d9264c0800000000000000
+      internalID: -4295698228899349531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_12"
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 299
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e473feb089b6da0800000000000000
+      internalID: -5950495305614537106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_13"
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 93
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781f9e2e18db881b0800000000000000
+      internalID: -5654060966608244345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014white snowflakes winter wind blowing_6980963_14"
+      rect:
+        serializedVersion: 2
+        x: 4420
+        y: 9
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33c4f7bbff8d9810800000000000000
+      internalID: 1773732139539678015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
