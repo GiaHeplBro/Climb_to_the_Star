@@ -96,7 +96,8 @@ The game consists of 4 levels:
 ●  	Camera effects by screen, background sound by screen
 
 - Act 3: The Frozen Land
-![image](https://github.com/user-attachments/assets/0d7b8980-f00e-4618-b897-44963db3095c)
+
+![image](https://github.com/user-attachments/assets/8cfaec89-2a82-4a6b-a8db-1c11a84fd61e)
 
 - Stage 3 Mechanism: Objects will be slippery, causing the character to slip when in contact, requiring the player to move continuously.
 
@@ -106,7 +107,7 @@ The game consists of 4 levels:
  
 - Act 4: The Chaos Sky
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6692f9a4-bebe-42a4-9f03-092fbf19d4b8)
 
 - Stage 4 Mechanics: The clouds will move from left to right continuously and will disappear after a while if there is contact with the player.
 ●  	The entity moves and disappears after a while if there is player contact.
@@ -115,7 +116,7 @@ The game consists of 4 levels:
  
 - Act 5: CutScene ends.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6c1204fc-a121-4612-87bd-3a691c9a6530)
 
 -  Mechanism: After completing, the player will be taken to the ending Scene.
 
